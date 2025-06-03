@@ -11777,6 +11777,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 
 .resume-header .picture {
   width: 220px;
+  height: auto;
 }
 
 .resume-header .name {
@@ -11943,6 +11944,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   }
   .resume-header .picture {
     width: 120px;
+    height: auto;
     border-radius: 4px;
   }
 }
