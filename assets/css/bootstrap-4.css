@@ -13149,7 +13149,7 @@ body {
   background: #F7F8FA;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #434E5E;
+  color: #ffffff;
   overflow-x: hidden;
 }
 
@@ -13209,8 +13209,7 @@ a.theme-btn-on-bg:active,
 }
 
 .resume-header {
-  background: #328998;
-  color: rgba(255, 255, 255, 0.9);
+  background-image: linear-gradient(to right bottom, rgb(2, 58, 110), rgb(117, 119, 121)); 
   height: 220px;
 }
 
