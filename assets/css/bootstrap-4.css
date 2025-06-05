@@ -13215,7 +13215,8 @@ a.theme-btn-on-bg:active,
 }
 
 .resume-header .picture {
-  width: 220px;
+  height: 13.8rem;
+  width: auto;
 }
 
 .resume-header .name {
