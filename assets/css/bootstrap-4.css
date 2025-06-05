@@ -185,12 +185,6 @@
   }
 }
 
-.picturePROA {
-
-  width: 12svw;
-  height: auto;
-}
-
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -13215,7 +13209,7 @@ a.theme-btn-on-bg:active,
 
 .resume-header .picture {
   height: 13.8rem;
-  width: auto;
+  width: 10.1rem;
 }
 
 .resume-header .name {
